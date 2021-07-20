@@ -2690,7 +2690,15 @@ span.aws-btn__bubble {
     background: #0bdc6d !important;
 }
 
+.Youtube--hover {
+    background: #47b64b !important;
+}
+
 .dev--hover:hover {
+    background: #fff !important;
+}
+
+.Google-hangout--hover {
     background: #fff !important;
 }
 
